@@ -1,0 +1,18 @@
+// Globals--> no windows ¨
+//__dirname ---> path  to   current directory 
+//__filename ---> file name 
+//require ---> function to use module (commun js )
+//module --> info about current module 
+//process --->info about env where program is being executed 
+/*
+
+console.log(__dirname);
+setTimeout(()=>{
+console.log("hello amin");
+},1000)
+
+
+--n
+nodules
+CommonJs --> every file is module (by default)
+*/
